@@ -1,0 +1,23 @@
+{
+  "name": "open_edx_theming_helper",
+  "version": "0.0.1",
+  "description": "Script to install a theme from a github/bitbucket repo into your ope edx instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaygenius123/open_edx_theming_helper.git"
+  },
+  "keywords": [
+    "Open-edX",
+    "Theming"
+  ],
+  "author": "Vijayaraghavan Sundararaman",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/vijaygenius123/open_edx_theming_helper/issues"
+  },
+  "homepage": "https://github.com/vijaygenius123/open_edx_theming_helper#readme"
+}
